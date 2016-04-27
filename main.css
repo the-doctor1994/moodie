@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+#background {
+    width:320px;
+    height:470px;
+    background: #00ff00;
+}
+nav {
+    background-color: blue;
+    padding: 1em;
+    width: inherit;
+}
+#title{
+    text-align: center;
+    padding: 1em;
+}
