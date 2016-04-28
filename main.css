@@ -8,10 +8,10 @@ p{
 #background {
     width:320px;
     height:470px;
-    background: #00ff00;
+    background: #f0f0ff;
 }
 header {
-    background-color: blue;
+    background-color: skyblue;
     width: inherit;
 }
 #title{
