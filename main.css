@@ -34,3 +34,17 @@ header a
     position: relative;
     z-index: -1;
 }
+article{
+    width: inherit;
+}
+article li {
+    list-style: none;
+}
+article a {
+    text-decoration: none;
+    color: #000;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    background-color: chartreuse;
+}
