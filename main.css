@@ -34,11 +34,16 @@ header a
     position: relative;
     z-index: -1;
 }
+ul {
+    -webkit-padding-start: 0;
+}
 article{
     width: inherit;
 }
 article li {
     list-style: none;
+    padding-top: 10px;
+    width: 60%;
 }
 article a {
     text-decoration: none;
